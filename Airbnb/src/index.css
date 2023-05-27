@@ -16,3 +16,29 @@ nav{
 nav>img{
   width: 130px;
 }
+
+.hero{
+  width: 100vw;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+ flex-wrap: wrap;
+  margin-block: 15px;
+
+
+}
+.hero>img{
+ width: 40%;
+  align-self:center;
+}
+.hero>div{
+  width: 50%;
+}
+.hero>div>h1{
+
+  font-size: 2.5rem;
+}
+.hero>div>p{
+
+  font-size: 2rem;
+}
