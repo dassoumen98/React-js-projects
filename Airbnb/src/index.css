@@ -1,7 +1,9 @@
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: "poppins" ,sans-serif;
 }
 
 .app{
@@ -68,6 +70,7 @@ nav>img{
   gap: 15px;
   transition: 0.2s;
   border-radius: 3px;
+  position: relative;
   
 }
 
@@ -92,4 +95,15 @@ nav>img{
 
 .card>div>img{
   height: 10px;
+}
+
+.card-badge{
+  position: absolute;
+  z-index: 1;
+  top: 6px;
+  left: 6px;
+  padding: 3px 5px;
+  border-radius: 3px;
+  background-color: rgb(232, 232, 232);
+  
 }
