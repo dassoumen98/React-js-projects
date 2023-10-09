@@ -1,0 +1,56 @@
+{
+   "users" :[
+        {
+          "id": 1,
+          "name":"soumen das",
+          "email":"dassoumen@gamil.com",
+          "phone":"98324582",
+          "address": "IND",
+          "status":"active"
+        },
+        {
+          "id": 2,
+          "name":"klau das",
+          "email":"ssoen@gamil.com",
+          "phone":"983245452",
+          "address": "UK",
+          "status":"inactive"
+        },
+        
+        {
+          "id": 3,
+          "name":"sanchi tah",
+          "email":"sanoumen@gamil.com",
+          "phone":"98324565642",
+          "address": "IND",
+          "status":"active"
+        },
+        {
+          "id": 4,
+          "name":"pratusha tah",
+          "email":"parn@gamil.com",
+          "phone":"983265642",
+          "address": "UK",
+          "status":"active"
+        },
+        
+        {
+          "id": 5,
+          "name":"sibani tah",
+          "email":"sibani@gamil.com",
+          "phone":"98326545642",
+          "address": "UK",
+          "status":"inactive"
+        },
+        
+        {
+          "id": 6,
+          "name":"anjali tah",
+          "email":"anjali@gamil.com",
+          "phone":"983265642",
+          "address": "AUS",
+          "status":"active"
+        }
+        
+    ]
+}
